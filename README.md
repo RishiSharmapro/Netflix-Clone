@@ -1,2 +1,2 @@
 # Netflix-Clone
-Building a functional clone with HTML/CSS &amp; JS
+Building a functional clone with HTML/CSS.
